@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently studying computer science and in my free time I enjoy analysing data on  Kaggle.
+I'm working as a software developer in the aviation industry.
 
+For colaborations, feature requests and suggestions feel free to contact me on social media.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eldeskar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13483606) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/eldeskar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Eldeskar) 
