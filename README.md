@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working as a software developer in the aviation industry.
+I'm working as a software engineer.
 
 For colaborations, feature requests and suggestions feel free to contact me on social media.
 
